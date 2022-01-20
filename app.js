@@ -17,5 +17,8 @@ const cases = [
 ]
 
 // YOUR JS CODE
+var currentYear = "2022";
+var jsReleaseYear = "1995";
+
 
 
