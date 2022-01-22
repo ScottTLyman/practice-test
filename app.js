@@ -19,6 +19,8 @@ const cases = [
 // YOUR JS CODE
 var currentYear = "2022";
 var jsReleaseYear = "1995";
+let jsAge = currentYear - jsReleaseYear;
+console.log("current age of JavaScript is " + jsAge)
 
 
 
