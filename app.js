@@ -52,3 +52,9 @@ console.log(user.name + " lives at " + user.address.street + ", " + user.address
 for (i = 0; i < cases.length; i++) {
   console.log (cases[i].title + " , " + cases[i].releaseYear);
 }
+for (x = 0; x < cases.length; x++) {
+  if(cases[x].releaseYear == 1903) {
+  console.log (cases[x].title + " , " + cases[x].releaseYear);
+} else {
+}
+}
